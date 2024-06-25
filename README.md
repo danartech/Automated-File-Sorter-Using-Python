@@ -35,6 +35,7 @@ This project was inspired by the YouTube video ["Building an Automated File Sort
 - **LinkedIn**: [Dana Robinson](https://www.linkedin.com/in/dana-robinson-acct)
 - **Portfolio Website**: [Dana's Portfolio](https://danartech.github.io/DanaTheAnalyst.github.io/)
 
+## Certifications 
 Here are some of my professional certifications related to this project:
 
   - 📊 [Google Data Analytics Professional Certificate](https://coursera.org/share/4ed75de36411d7d5c0389e2d61a2c2ff)
