@@ -34,3 +34,13 @@ This project was inspired by the YouTube video ["Building an Automated File Sort
 - **Email**: [danarfintech@gmail.com](mailto:danarfintech@gmail.com)
 - **LinkedIn**: [Dana Robinson](https://www.linkedin.com/in/dana-robinson-acct)
 - **Portfolio Website**: [Dana's Portfolio](https://danartech.github.io/DanaTheAnalyst.github.io/)
+
+Here are some of my professional certifications related to this project:
+
+  - 📊 [Google Data Analytics Professional Certificate](https://coursera.org/share/4ed75de36411d7d5c0389e2d61a2c2ff)
+<img src="https://i.imgur.com/lctxOq1.png" alt="Google Data Analytics " width="100"/>
+
+  - 🐍 [Python for Data Science and AI](https://www.credly.com/badges/4f0fcef8-75d4-4114-9ccc-20a10d21f494/public_url)
+<img src="https://i.imgur.com/xiEJ7PF.png" alt="Python for Data Science and AI" width="100"/>
+
+For a full list of my certifications, please refer to the [certifications section](https://github.com/danartech).
